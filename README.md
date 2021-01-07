@@ -10,5 +10,7 @@ The STM32F072 firmware for the world-renowned Brainfuino [-]+. board.
 
 ## Contact
 
+Eduardo Corpeño
+
 For bug report or anything related to Brainfuino, I may be reached at kuashio@gmail.com 
 
